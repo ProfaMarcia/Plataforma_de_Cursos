@@ -40,8 +40,8 @@ CREATE TABLE `alunos` (
 --
 
 INSERT INTO `alunos` (`id_aluno`, `nome`, `telefone`, `email`, `senha`) VALUES
-(1, 'Marcia', '92992706399', 'marciaprisc@gmail.com', '123'),
-(2, 'Marcia', '92992706399', 'marciaprisc2018@gmail.com', '1234'),
+(1, 'Marcia', '9299999999', 'marcia@gmail.com', '123'),
+(2, 'Maria', '9299333399', 'maria@gmail.com', '1234'),
 (3, 'Sanna', '9299999999', 'sana@gmail.com', '123');
 
 -- --------------------------------------------------------
