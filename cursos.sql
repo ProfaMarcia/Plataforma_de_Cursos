@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 
 --
 -- Banco de dados: `cursos`
---CREATE DATABASE cursos11 CHARACTER SET utf8 COLLATE utf8_general_ci;
+--
 
 -- --------------------------------------------------------
 
